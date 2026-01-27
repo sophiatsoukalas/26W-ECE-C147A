@@ -3,3 +3,5 @@ __pycache__/
 .DS_Store
 *.mp4
 *.pdf
+*.html
+cifar-10-batches-py/
